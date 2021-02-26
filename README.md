@@ -11,7 +11,7 @@ What I am doing now:
 - 👯 I’m looking to collaborate on ... everything!
 - 🤔 I’m looking for help with ... JavaScript and JQuery.
 - 💬 Ask me about ... creating anything!
-- 📫 How to reach me: ... [LinkedIn](https://linkedin/in/ibsaajadam)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ibsaajadam/)
 - 😄 What I do for fun: ... Reading/Watching Murder Mysteries, Sports, Travel.
 - ⚡ Fun fact: ... I started my coding/design journey 10 years ago but gave up because it was too difficult.
 
