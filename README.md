@@ -21,12 +21,13 @@ What I am doing now:
 
 <br />
 <br />
+<br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Adobe XD" src="https://img.icons8.com/carbon-copy/100/000000/adobe-xd.png"/>
-<img align="left" src="https://img.icons8.com/windows/64/000000/figma.png"/>
-<img align="left" alt="Sketch" src="https://img.icons8.com/carbon-copy/100/000000/sketch.png"/>
+<img align="left" alt="Adobe XD" src="https://img.icons8.com/carbon-copy/60/000000/adobe-xd.png"/>
+<img align="left" src="https://img.icons8.com/windows/60/000000/figma.png"/>
+<img align="left" alt="Sketch" src="https://img.icons8.com/carbon-copy/60/000000/sketch.png"/>
 
 
 
