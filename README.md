@@ -15,3 +15,23 @@ What I am doing now:
 - 😄 What I do for fun: ... Reading/Watching Murder Mysteries, Sports, Travel.
 - ⚡ Fun fact: ... I started my coding/design journey 10 years ago but gave up because it was too difficult.
 
+### Connect with me:
+
+[<img align="left" target="_blank" alt="LinkedIN" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
+
+<br />
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Adobe XD" src="https://img.icons8.com/carbon-copy/100/000000/adobe-xd.png"/>
+<img align="left" src="https://img.icons8.com/windows/80/000000/figma.png"/>
+<img align="left" alt="Sketch" src="https://img.icons8.com/carbon-copy/100/000000/sketch.png"/>
+
+
+
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/ibsaajadam
+
