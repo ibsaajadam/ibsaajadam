@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I am Ibsaa Jamal Adam 👋
 
-<!--
-**ibsaajadam/ibsaajadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My main passion is User Interface/User Experience Design. 
 
-Here are some ideas to get you started:
+### But I also love Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I am doing now:
+
+- 🔭 I’m currently working on ... my first UI/UX Design Case Study.
+- 🌱 I’m currently learning ... JavaScript, JQuery, React and PHP.
+- 👯 I’m looking to collaborate on ... everything!
+- 🤔 I’m looking for help with ... JavaScript and JQuery.
+- 💬 Ask me about ... creating anything!
+- 📫 How to reach me: ... [LinkedIn](https://linkedin/in/ibsaajadam)
+- 😄 What I do for fun: ... Reading/Watching Murder Mysteries, Sports, Travel.
+- ⚡ Fun fact: ... I started my coding/design journey 10 years ago but gave up because it was too difficult.
+
