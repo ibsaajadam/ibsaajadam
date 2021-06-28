@@ -1,13 +1,13 @@
 ### Hi there, I am Ibsaa Jamal Adam 👋
 
-## My main passion is User Interface/User Experience Design. 
+## My main passion is Front-End Development.  
 
-### But I also love Software Development.
+### But I also love Designing(UI/UX).
 
 What I am doing now:
 
-- 🔭 I’m currently working on ... my first UI/UX Design Case Study.
-- 🌱 I’m currently learning ... JavaScript, JQuery, React and PHP.
+- 🔭 I’m currently working on ... learning React.js and Vue.js.
+- 🌱 I’m currently learning ... how to build a UI/UX Case Study.
 - 👯 I’m looking to collaborate on ... everything!
 - 🤔 I’m looking for help with ... JavaScript and JQuery.
 - 💬 Ask me about ... creating anything!
