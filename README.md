@@ -2,7 +2,7 @@
 
 ## My main passion is Full-Stack Development.  
 
-### But I also love Designing(UI/UX).
+### But I also love Designing (UI/UX).
 
 What I am doing now:
 
