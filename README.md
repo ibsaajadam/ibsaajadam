@@ -1,6 +1,6 @@
 ### Hi there, I am Ibsaa Jamal Adam 👋
 
-## My main passion is Front-End Development.  
+## My main passion is Full-Stack Development.  
 
 ### But I also love Designing(UI/UX).
 
