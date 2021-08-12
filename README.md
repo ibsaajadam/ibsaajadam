@@ -25,9 +25,7 @@ What I am doing now:
 
 ### Languages and Tools:
 
-<img align="left" alt="Adobe XD" src="https://img.icons8.com/carbon-copy/60/000000/adobe-xd.png"/>
-<img align="left" src="https://img.icons8.com/windows/60/000000/figma.png"/>
-<img align="left" alt="Sketch" src="https://img.icons8.com/carbon-copy/60/000000/sketch.png"/>
+<img align="left" alt="HTML" src="https://image.flaticon.com/icons/png/512/919/919827.png"/>
 
 
 
