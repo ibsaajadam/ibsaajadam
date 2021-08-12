@@ -25,7 +25,7 @@ What I am doing now:
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML" src="https://image.flaticon.com/icons/png/512/919/919827.png"/>
+<img align="left" alt="HTML" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png/">
 
 
 
