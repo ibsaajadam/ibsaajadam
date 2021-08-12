@@ -23,9 +23,9 @@ What I am doing now:
 <br />
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
-<img align="left" alt="HTML" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png/">
+<img align="left" alt="HTML" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png/"> -->
 
 
 
