@@ -1,19 +1,19 @@
 ### Hi there, I am Ibsaa Jamal Adam 👋
 
-## My main passion is Entrepreneurship.
+## My main passions are personal development and entrepreneurship.
 
-### I love building businesses from the ground up. That's how I stumbled across coding back in 2011 after starting a dog walking business and fell in love with every aspect of both web development & design.
+### Ever since I was a kid I loved entrepreneurship and helping others. I stumbled across web development after I needed money on break from college and started a dog walking business. When customers wanted a way to book my services and for me to send them invoices I was soon introduced to Adobe Dreamweaver and web development.
 
 What I am doing now:
 
-- 🔭 I’m currently working on ... learning React.js and Vue.js.
-- 🌱 I’m currently learning ... how to build a UI/UX Case Study.
+- 🔭 I’m currently working on ... learning React.js and Python.
+- 🌱 I’m currently learning ... more about UI/UX Design.
 - 👯 I’m looking to collaborate on ... everything!
 - 🤔 I’m looking for help with ... JavaScript and JQuery.
 - 💬 Ask me about ... creating anything!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ibsaajadam/)
 - 😄 What I do for fun: ... Run, Code, Read/Watch Mysteries, Cook (Want to Learn), Cut Hair (Want to Learn), & Saxophone (Want to Learn).
-- ⚡ Fun fact: ... I started my coding/design journey 10 years ago but gave up because I couldn't figure out JavaScript.
+- ⚡ Fun fact: ... I went to middle school with Kevin Durant, Michael Beasley and Patrick Ewing Jr..
 
 ### Connect with me:
 
